@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yudataub.github.io/chumash-bamidbar/sitemap.xml
+Sitemap: https://www.kol-toda.co.il/chumash/bamidbar/sitemap.xml
